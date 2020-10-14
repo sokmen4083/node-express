@@ -1,0 +1,23 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "Node Express Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sokmen4083/node-express.git"
+  },
+  "author": "Mehmet Sökmen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sokmen4083/node-express/issues"
+  },
+  "homepage": "https://github.com/sokmen4083/node-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
